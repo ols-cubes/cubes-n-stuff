@@ -1,6 +1,10 @@
 header {
+  padding: 30px;
   grid-area: header;
   background: #4B45E7;
+  background-image: url('');
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 main {
