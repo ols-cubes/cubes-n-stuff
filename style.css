@@ -3,5 +3,13 @@ header {
 }
 
 aside {
-   
+  background: #E53935;
+}
+
+footer {
+  background: #F44336;
+}
+
+article {
+  background: #CE0D00;
 }
